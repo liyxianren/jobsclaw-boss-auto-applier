@@ -1,0 +1,30 @@
+[
+  {
+    "title": "高级Golang开发工程师",
+    "company": "某科技公司A",
+    "salary": "25-40K",
+    "city": "上海",
+    "experience": "3-5年",
+    "degree": "本科",
+    "tags": ["Go", "微服务", "高并发"],
+    "benefits": ["年终奖", "弹性工作"],
+    "recruiter": "李女士",
+    "recruiterTitle": "HRBP",
+    "link": "https://www.zhipin.com/job_detail/example_a.html",
+    "source": "BOSS直聘"
+  },
+  {
+    "title": "Golang后端开发",
+    "company": "某科技公司B",
+    "salary": "20-30K",
+    "city": "上海",
+    "experience": "1-3年",
+    "degree": "本科",
+    "tags": ["Go", "MySQL", "Redis"],
+    "benefits": ["双休"],
+    "recruiter": "王先生",
+    "recruiterTitle": "技术负责人",
+    "link": "https://www.zhipin.com/job_detail/example_b.html",
+    "source": "BOSS直聘"
+  }
+]

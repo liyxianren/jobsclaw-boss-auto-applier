@@ -1,0 +1,41 @@
+{
+  "targetCity": "深圳",
+  "searchKeywords": [
+    "AI产品经理"
+  ],
+  "profile": {
+    "coreTech": [
+      "Python",
+      "Agent",
+      "RAG",
+      "Workflow",
+      "CDP"
+    ],
+    "strengths": [
+      "AI应用落地",
+      "Agent编排",
+      "自动化流程"
+    ],
+    "avoid": [
+      "Java",
+      "Go",
+      "C++",
+      "纯算法训练",
+      "纯运维"
+    ]
+  },
+  "jobPreferences": {
+    "salaryCodes": [
+      "405"
+    ],
+    "experienceCode": "104",
+    "degreeCode": "203",
+    "jobTypeCode": "1901",
+    "scaleCodes": [
+      "303",
+      "304",
+      "305",
+      "306"
+    ]
+  }
+}

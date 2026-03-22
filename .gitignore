@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+__pycache__/
+*.pyc
+.openclaw-runs/
+out/
+outputs/
+tmp/
+.temp/
+.env
+.env.*
+data/*.db
+data/*.sqlite
+data/*.sqlite3
